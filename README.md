@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rosivolgarin
-- 👀 I’m interested in xtech 
-- 🌱 I'm currently coding and overcome everyday challengers
-- 💞️ I’m looking to collaborate on high performance teams
+- 👀 I’m interested in xTech 
+- 🌱 I'm currently coding and overcoming everyday challenges
+- 💞️ I’m looking for to collaborate on high-performance teams
 - 📫 How to reach me rosi.volgarin@gmail.com or www.rosi.com.br
 
 <!---
